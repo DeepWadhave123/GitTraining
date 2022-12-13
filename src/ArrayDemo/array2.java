@@ -29,7 +29,7 @@ public class array2 {
 		
 		for (int var:array)
 		{
-			System.out.println("squre of "+var+" is "+var*var);
+			System.out.println("squre of :"+var+" is "+var*var);
 		}
 		
 
