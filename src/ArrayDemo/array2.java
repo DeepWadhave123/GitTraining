@@ -24,14 +24,13 @@ public class array2 {
 
 		array[14]=140;
 		
-
-		
 		
 		for (int var:array)
 		{
 			System.out.println("squre of :"+var+" is "+var*var);
 		}
 		
+		System.out.println("New line added.");
 
 	}
 
